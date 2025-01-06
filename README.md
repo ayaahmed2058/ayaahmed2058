@@ -51,14 +51,14 @@
 
 <p align="center">
 <a href="https://github.com/ayaahmed8520">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaahmed8520&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ayaahmed8520" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaahmed2058&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ayaahmed2058" />
 </p>
 
 <p align="center">      
-<a href="https://github.com/ayaahmed8520">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayaahmed8520&show_icons=true&theme=dracula&hide_border=true" />
+<a href="https://github.com/ayaahmed2058">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayaahmed2058&show_icons=true&theme=dracula&hide_border=true" />
   &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaahmed8520&theme=dracula&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaahmed2058&theme=dracula&hide_border=true" />
 </a>
 </p>
 
@@ -67,7 +67,7 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
 <p align="center">
-  <a href="https://github.com/ayaahmed8520">
+  <a href="https://github.com/ayaahmed2058">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayaahmed8520&label=Profile%20views&color=0e75b6&style=flat" alt="ayaahmed8520" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayaahmed8520&label=Profile%20views&color=0e75b6&style=flat" alt="ayaahmed2058" /> </p>
 </p>
 
 <br>
