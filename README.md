@@ -5,7 +5,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width = 240px></picture>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-## 🛠  My Skills
+🛠  My Skills
 
 <a name="learning-now"></a>
 &nbsp; &nbsp;&nbsp;
@@ -33,12 +33,12 @@
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+📖  What I am currently learning / improving on
 
 &nbsp; &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
 
-## 👾  What I am interested in learning at some point
+👾  What I am interested in learning at some point
 
 &nbsp; &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
@@ -50,7 +50,7 @@
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <p align="center">
-<a href="https://github.com/ayaahmed8520">
+<a href="https://github.com/ayaahmed2058">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaahmed2058&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ayaahmed2058" />
 </p>
 
