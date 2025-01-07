@@ -29,6 +29,10 @@
 &nbsp;
 ![Java](https://img.shields.io/badge/JAVA-orange?style=flat-square&logo=java)
 &nbsp;
+![C](https://img.shields.io/badge/C-orange?style=flat-square&logo=C)
+&nbsp;
+![C++](https://img.shields.io/badge/C++-orange?style=flat-square&logo=C++)
+&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
 <a name="learning-next"></a>
