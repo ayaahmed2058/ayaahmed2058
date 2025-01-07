@@ -5,7 +5,7 @@
 
 <br>
 
-👩🏻‍💻 About me
+👩🏻‍💻  About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width = 240px></picture>
 
