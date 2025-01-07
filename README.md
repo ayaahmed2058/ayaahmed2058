@@ -5,7 +5,7 @@
 
 <br>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+👩🏻‍💻 About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width = 240px></picture>
 
@@ -13,9 +13,9 @@
 
 - I'm Aya Ahmed from Egypt.
 - Faculty of Science, Al-Azhar University.
-- Currently, I'm Learning Mobile application development.
+- Currently, I am a student at the ITI (Information Technology Institute).
 - I also like JAVA and I'm exploring Front End development🐱‍💻.
-- I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Still learning.
+- I really enjoy learning programming languages and frameworks. I also enjoy implementing designs. At the moment, I'm still learning.
 
 <br>
 
