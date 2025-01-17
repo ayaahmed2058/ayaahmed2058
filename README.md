@@ -13,7 +13,7 @@
 
 - I'm Aya Ahmed from Egypt.
 - Faculty of Science, Al-Azhar University.
-- Currently, I am a student at the ITI (Information Technology Institute).
+- ITI Trainee at Mobile Applications Development.
 - I also like JAVA and I'm exploring Front End development🐱‍💻.
 - I really enjoy learning programming languages and frameworks. I also enjoy implementing designs. At the moment, I'm still learning.
 
