@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://peterhan.dev">👋 Hello World, I'm Aya Ahmed!</a></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FFCCBC&center=true&lines=+👋🏾+welcome+to+my+Github+Profile!"></a>
-</p>
+
+<br> <br>
 
 <br>
 
